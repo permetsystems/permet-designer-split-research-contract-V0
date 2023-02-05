@@ -2,3 +2,7 @@
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
 	branch = v1.3.0
+[submodule "lib/operator-filter-registry"]
+	path = lib/operator-filter-registry
+	url = https://github.com/ProjectOpenSea/operator-filter-registry
+	branch = v1.4.0
