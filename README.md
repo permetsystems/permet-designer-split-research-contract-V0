@@ -1,4 +1,4 @@
-# HibiscusDao-Hibiscus-Designer-Split-Research-Contract-V0
+# Hibiscus Dao Designer Split Contract V0
 
 Hibiscus builds on 0xSplits’ [Liquid Splits](https://docs.0xsplits.xyz/modules/liquid) which redistributes funds according to NFT owners.
 
