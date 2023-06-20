@@ -1,6 +1,6 @@
-# Hibiscus Dao Designer Split Contract V0
+# Permet Systems Designer Split Contract V0
 
-Hibiscus builds on 0xSplits’ [Liquid Splits](https://docs.0xsplits.xyz/modules/liquid) which redistributes funds according to NFT owners.
+Permet builds on 0xSplits’ [Liquid Splits](https://docs.0xsplits.xyz/modules/liquid) which redistributes funds according to NFT owners.
 
 # Split Contract Details
 
@@ -13,7 +13,7 @@ The Design NFT images are stored on Arweave and each Design NFT designates a por
 - 6 for [Eugene Angelo](https://angelo.ltd/)
 - 2 for [Corey San Augustin](https://lastorchid.com/)
 - 1 for [FWB](https://www.fwb.help/editorial/in-the-future-of-fashion-everyone-gets-paid)
-- 1 for Hibiscus
+- 1 for Permet
 
 We created a liquid split by interfacing with 0xSplits’ liquid split contract. 
 
