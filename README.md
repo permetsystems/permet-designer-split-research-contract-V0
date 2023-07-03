@@ -21,4 +21,4 @@ When profit is distributed, the split is updated based on which wallets hold the
 
 The magic of this contract is in the constructor. To fork it for your own use, redeploy a forked version with your own parameters.
 
-![alt text](https://ztwbsne6fwmpuy6kfpde3rdolnzb4ssvqano6syxxjwm6fqwarqq.arweave.net/zOwZNJ4tmPpjyivGTcRuW3IeSlWAGu9LF7pszxYWBGE)
+![alt text](https://arweave.net/an5zNJ39z8qF-6WtKePRmDMhjpeg3dcvuTxDbifXduk)
