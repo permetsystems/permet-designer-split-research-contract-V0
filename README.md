@@ -12,7 +12,7 @@ The Design NFT images are stored on Arweave and each Design NFT designates a por
 
 - 6 for [Eugene Angelo](https://angelo.ltd/)
 - 2 for [Corey San Augustin](https://lastorchid.com/)
-- 1 for [FWB](https://www.fwb.help/editorial/in-the-future-of-fashion-everyone-gets-paid)
+- 1 for [DAO]
 - 1 for Permet
 
 We created a liquid split by interfacing with 0xSplits’ liquid split contract. 
